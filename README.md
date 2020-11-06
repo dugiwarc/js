@@ -6,4 +6,4 @@
 
 ## 4 kyu
 
-- [Hamming Numbers](./HammingNumbers/index.js) - [View Kata Details](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)
+- [Hamming Numbers](./HammingNumbers/index.js) - [View Kata Details](https://www.codewars.com/kata/526d84b98f428f14a60008da/)
