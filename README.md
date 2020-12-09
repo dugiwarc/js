@@ -13,3 +13,5 @@
 - [Recover a secret string from random triplets](./RecoverAStringFromRandomTriplets/index.js) - [View Kata Details](https://www.codewars.com/kata/53f40dff5f9d31b813000774/train/javascript)
 
 - [Befunge Interpreter](./BefungeInterpreter/index.js) - [View Kata Details](https://www.codewars.com/kata/526c7b931666d07889000a3c/train/javascript)
+
+- [Infix to Postfix Converter](./InfixtoPostfixConverter/index.js) - [View Kata Details](https://www.codewars.com/kata/52e864d1ffb6ac25db00017f/train/javascript)
