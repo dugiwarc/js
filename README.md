@@ -16,6 +16,8 @@
 
 - [Infix to Postfix Converter](./InfixtoPostfixConverter/index.js) - [View Kata Details](https://www.codewars.com/kata/52e864d1ffb6ac25db00017f/train/javascript)
 
+- [Number of proper fractions with denominator d](./NumberOfProperFractionsWithDenominatorD/index.js) - [View Kata Details](https://www.codewars.com/kata/55b7bb74a0256d4467000070/train/javascript)
+
 ## 3 kyu
 
 - [Make a spiral](./MakeASpiral/index.js) - [View Kata Details](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/javascript)
