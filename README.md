@@ -23,3 +23,7 @@
 - [Make a spiral](./MakeASpiral/index.js) - [View Kata Details](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/javascript)
 
 - [The Millionth Fibonacci Kata](./TheMillionthFibonacciKata/index.js) - [View Kata Details](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26/train/javascript)
+
+## 2kyu
+
+- [Simple SQL Engine](./SimpleSQLEngine/index.js) - [View Kata Details](https://www.codewars.com/kata/5451712ea8a825a74f000863/train/javascript)
