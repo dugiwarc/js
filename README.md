@@ -24,6 +24,8 @@
 
 - [The Millionth Fibonacci Kata](./TheMillionthFibonacciKata/index.js) - [View Kata Details](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26/train/javascript)
 
-## 2kyu
+- [Plants and Zombies](./PlantsAndZombies/index.js) - [View Kata Details](https://www.codewars.com/kata/5a5db0f580eba84589000979/train/javascript)
+
+## 2 kyu
 
 - [Simple SQL Engine](./SimpleSQLEngine/index.js) - [View Kata Details](https://www.codewars.com/kata/5451712ea8a825a74f000863/train/javascript)
