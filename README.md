@@ -29,3 +29,5 @@
 ## 2 kyu
 
 - [Simple SQL Engine](./SimpleSQLEngine/index.js) - [View Kata Details](https://www.codewars.com/kata/5451712ea8a825a74f000863/train/javascript)
+
+- [Evaluate Mathematical Expression](./EvaluateMathematicalExpression/index.js) - [View Kata Details](https://www.codewars.com/kata/52a78825cdfc2cfc87000005/train/javascript)
