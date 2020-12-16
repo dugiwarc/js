@@ -33,3 +33,5 @@
 - [Simple SQL Engine](./SimpleSQLEngine/index.js) - [View Kata Details](https://www.codewars.com/kata/58c5577d61aefcf3ff000081/train/javascript)
 
 - [Evaluate Mathematical Expression](./EvaluateMathematicalExpression/index.js) - [View Kata Details](https://www.codewars.com/kata/52a78825cdfc2cfc87000005/train/javascript)
+
+- [One line task: Circle Intersection](./OneLineTask:CircleIntersection/index.js) - [View Kata Details](https://www.codewars.com/kata/5908242330e4f567e90000a3/train/javascript)
