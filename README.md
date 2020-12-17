@@ -28,6 +28,8 @@
 
 - [Rail Fence Cipher: Encoding and Decoding](./RailFenceCipher/index.js) - [View Kata Details](https://www.codewars.com/kata/5a5db0f580eba84589000979/train/javascript)
 
+- [Line Safari - Is that a line?](./LineSafari/index.js) - [View Kata Details](https://www.codewars.com/kata/59c5d0b0a25c8c99ca000237/train/javascript)
+
 ## 2 kyu
 
 - [Simple SQL Engine](./SimpleSQLEngine/index.js) - [View Kata Details](https://www.codewars.com/kata/58c5577d61aefcf3ff000081/train/javascript)
