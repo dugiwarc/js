@@ -30,6 +30,8 @@
 
 - [Line Safari - Is that a line?](./LineSafari/index.js) - [View Kata Details](https://www.codewars.com/kata/59c5d0b0a25c8c99ca000237/train/javascript)
 
+- [How many are smaller than me II?](./HM/index.js) - [View Kata Details](https://www.codewars.com/kata/56a1c63f3bc6827e13000006/train/javascript)
+
 ## 2 kyu
 
 - [Simple SQL Engine](./SimpleSQLEngine/index.js) - [View Kata Details](https://www.codewars.com/kata/58c5577d61aefcf3ff000081/train/javascript)
@@ -37,3 +39,5 @@
 - [Evaluate Mathematical Expression](./EvaluateMathematicalExpression/index.js) - [View Kata Details](https://www.codewars.com/kata/52a78825cdfc2cfc87000005/train/javascript)
 
 - [One line task: Circle Intersection](./OneLineTask:CircleIntersection/index.js) - [View Kata Details](https://www.codewars.com/kata/5908242330e4f567e90000a3/train/javascript)
+
+- [The position of a digital string in a infinite digital string](./ThePosition/index.js) - [View Kata Details](https://www.codewars.com/kata/582c1092306063791c000c00/train/javascript)
