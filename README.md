@@ -32,6 +32,8 @@
 
 - [How many are smaller than me II?](./HM/index.js) - [View Kata Details](https://www.codewars.com/kata/56a1c63f3bc6827e13000006/train/javascript)
 
+- [Path Finder #3: the Alpinist](./PathFinder/index.js) - [View Kata Details](https://www.codewars.com/kata/576986639772456f6f00030c/train/javascript)
+
 ## 2 kyu
 
 - [Simple SQL Engine](./SimpleSQLEngine/index.js) - [View Kata Details](https://www.codewars.com/kata/58c5577d61aefcf3ff000081/train/javascript)
