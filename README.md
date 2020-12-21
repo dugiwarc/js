@@ -34,6 +34,8 @@
 
 - [Path Finder #3: the Alpinist](./PathFinder/index.js) - [View Kata Details](https://www.codewars.com/kata/576986639772456f6f00030c/train/javascript)
 
+- [Help the general decode secret enemy messages.](./HelpTheGeneral/index.js) - [View Kata Details](https://www.codewars.com/kata/52cf02cd825aef67070008fa/train/javascript)
+
 ## 2 kyu
 
 - [Simple SQL Engine](./SimpleSQLEngine/index.js) - [View Kata Details](https://www.codewars.com/kata/58c5577d61aefcf3ff000081/train/javascript)
