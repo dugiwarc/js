@@ -5,7 +5,10 @@
 ![Dugiwarc](https://www.codewars.com/users/dugiwarc/badges/large)
 
 ## 6 kyu
+
 - [Hamming Numbers](./Dubstep/index.js) - [View Kata Details](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/javascript)
+
+- [Hamming Numbers](./PersistentBurger/index.js) - [View Kata Details](hhttps://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)
 
 ## 4 kyu
 
