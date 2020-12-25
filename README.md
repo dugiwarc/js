@@ -6,9 +6,11 @@
 
 ## 6 kyu
 
-- [Hamming Numbers](./Dubstep/index.js) - [View Kata Details](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/javascript)
+- [Dubstep](./Dubstep/index.js) - [View Kata Details](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/javascript)
 
-- [Hamming Numbers](./PersistentBurger/index.js) - [View Kata Details](hhttps://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)
+- [Persistent Burger](./PersistentBurger/index.js) - [View Kata Details](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)
+
+- [Persistent Burger](./WhoLikesIt/index.js) - [View Kata Details](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)
 
 ## 4 kyu
 
