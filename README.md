@@ -12,6 +12,8 @@
 
 - [Persistent Burger](./WhoLikesIt/index.js) - [View Kata Details](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)
 
+- [Find the odd int](./FindTheOddInt/index.js) - [View Kata Details](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)
+
 ## 4 kyu
 
 - [Hamming Numbers](./HammingNumbers/index.js) - [View Kata Details](https://www.codewars.com/kata/526d84b98f428f14a60008da/)
