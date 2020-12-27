@@ -4,6 +4,10 @@
 
 ![Dugiwarc](https://www.codewars.com/users/dugiwarc/badges/large)
 
+## 7 kyu
+
+- [Beginner Series #3 Sum of Numbers](./SumOfNumbers#3/index.js) - [View Kata Details](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript)
+
 ## 6 kyu
 
 - [Dubstep](./Dubstep/index.js) - [View Kata Details](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/javascript)
