@@ -18,6 +18,8 @@
 
 - [Find the odd int](./FindTheOddInt/index.js) - [View Kata Details](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)
 
+- [Convert string to camel case](./StringToCamelCase/index.js) - [View Kata Details](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/javascript)
+
 ## 4 kyu
 
 - [Hamming Numbers](./HammingNumbers/index.js) - [View Kata Details](https://www.codewars.com/kata/526d84b98f428f14a60008da/)
