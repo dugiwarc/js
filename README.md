@@ -20,6 +20,8 @@
 
 - [Convert string to camel case](./StringToCamelCase/index.js) - [View Kata Details](https://www.codewars.com/kata/517abf86da9663f1d2000003/train/javascript)
 
+- [Format a string of names like 'Bart, Lisa & Maggie'.](./BartLisaMaggie/index.js) - [View Kata Details](https://www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript)
+
 ## 5 kyu
 
 - [Valid Parantheses](./ValidParantheses/index.js) - [View Kata Details](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript)
