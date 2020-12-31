@@ -22,6 +22,8 @@
 
 - [Format a string of names like 'Bart, Lisa & Maggie'.](./BartLisaMaggie/index.js) - [View Kata Details](https://www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript)
 
+- [Stop gninnipS My sdroW!](./StopSpinning/index.js) - [View Kata Details](https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript)
+
 ## 5 kyu
 
 - [Valid Parantheses](./ValidParantheses/index.js) - [View Kata Details](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript)
