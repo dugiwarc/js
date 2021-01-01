@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Codewars Katas
+# Codewars Katas Javascript
 
 ![Dugiwarc](https://www.codewars.com/users/dugiwarc/badges/large)
 
@@ -23,6 +23,8 @@
 - [Format a string of names like 'Bart, Lisa & Maggie'.](./BartLisaMaggie/index.js) - [View Kata Details](https://www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript)
 
 - [Stop gninnipS My sdroW!](./StopSpinning/index.js) - [View Kata Details](https://www.codewars.com/kata/5264d2b162488dc400000001/train/javascript)
+
+- [Take a Ten Minute Walk](./TenMinuteWalk/index.js) - [View Kata Details](https://www.codewars.com/kata/54da539698b8a2ad76000228/train/javascript)
 
 ## 5 kyu
 
