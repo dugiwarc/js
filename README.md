@@ -2,11 +2,13 @@
 
 # Codewars Katas Javascript
 
-![Dugiwarc](https://www.codewars.com/users/dugiwarc/badges/large)
+![Dugiwarc](https://www.codewars.com/users/tomoshimi/badges/large)
 
 ## 7 kyu
 
 - [Beginner Series #3 Sum of Numbers](./SumOfNumbers#3/index.js) - [View Kata Details](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript)
+
+- [You're a square!](./YouAreASquare/index.js) - [View Kata Details](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript)
 
 ## 6 kyu
 
