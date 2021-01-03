@@ -10,6 +10,8 @@
 
 - [You're a square!](./YouAreASquare/index.js) - [View Kata Details](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript)
 
+- [Highest and Lowest](./HighestAndLowest/index.js) - [View Kata Details](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript)
+
 ## 6 kyu
 
 - [Dubstep](./Dubstep/index.js) - [View Kata Details](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/javascript)
