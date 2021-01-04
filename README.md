@@ -34,6 +34,8 @@
 
 - [Valid Parantheses](./ValidParantheses/index.js) - [View Kata Details](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript)
 
+- [Simple Pig Latin](./SimplePigLatin/index.js) - [View Kata Details](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript)
+
 ## 4 kyu
 
 - [Hamming Numbers](./HammingNumbers/index.js) - [View Kata Details](https://www.codewars.com/kata/526d84b98f428f14a60008da/)
