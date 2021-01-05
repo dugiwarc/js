@@ -50,6 +50,8 @@
 
 - [Number of proper fractions with denominator d](./NumberOfProperFractionsWithDenominatorD/index.js) - [View Kata Details](https://www.codewars.com/kata/55b7bb74a0256d4467000070/train/javascript)
 
+- [Permutations](./Permutations/index.js) - [View Kata Details](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/train/javascript)
+
 ## 3 kyu
 
 - [Make a spiral](./MakeASpiral/index.js) - [View Kata Details](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/javascript)
