@@ -1,17 +1,18 @@
 /** @format */
-const permutations = (str) => {
-	if (str.length <= 1) return [str];
+
+function permutations(string) {
+	if (string.length <= 1) return [string];
 
 	return Array.from(
 		new Set(
-			str
+			string
 				.split("")
-				.map((char, index) =>
-					permutations(str.substring(0, index) + str.substring(index + 1)).map(
-						(p) => char + p
-					)
+				.map((character, index) =>
+					permutations(
+						string.substring(0, index) + string.substring(index + 1)
+					).map((returnChar) => character + returnChar)
 				)
-				.reduce((acc, item) => [...acc, item], [])
+				.reduce((acc, item) => [...acc, ...item], [])
 		)
 	);
-};
+}
