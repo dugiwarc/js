@@ -2,8 +2,6 @@
 
 # Codewars Katas Javascript
 
-![Dugiwarc](https://www.codewars.com/users/tomoshimi/badges/large)
-
 ## 7 kyu
 
 - [Beginner Series #3 Sum of Numbers](./SumOfNumbers#3/index.js) - [View Kata Details](https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript)
