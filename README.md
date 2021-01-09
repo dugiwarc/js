@@ -16,6 +16,8 @@
 
 - [Dubstep](./Dubstep/index.js) - [View Kata Details](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/javascript)
 
+- [Does my number look big in this?](./DoesMyNumberLook/index.js) - [View Kata Details](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript)
+
 - [Persistent Burger](./PersistentBurger/index.js) - [View Kata Details](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript)
 
 - [Persistent Burger](./WhoLikesIt/index.js) - [View Kata Details](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)
