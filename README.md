@@ -44,6 +44,8 @@
 
 - [Snail](./Snail/index.js) - [View Kata Details](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/javascript)
 
+- [Adding Big Numbers](./AddingBigNumbers/index.js) - [View Kata Details](https://www.codewars.com/kata/525f4206b73515bffb000b21/train/javascript)
+
 - [Hamming Numbers](./HammingNumbers/index.js) - [View Kata Details](https://www.codewars.com/kata/526d84b98f428f14a60008da/)
 
 - [Explosive Sum](./ExplosiveSum/index.js) - [View Kata Details](https://www.codewars.com/kata/52ec24228a515e620b0005ef/train/javascript)
