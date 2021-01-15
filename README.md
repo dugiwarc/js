@@ -40,6 +40,8 @@
 
 - [Simple Pig Latin](./SimplePigLatin/index.js) - [View Kata Details](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript)
 
+- [Write out numbers](./WriteOutNumbers/index.js) - [View Kata Details](https://www.codewars.com/kata/52724507b149fa120600031d/train/javascript)
+
 ## 4 kyu
 
 - [Snail](./Snail/index.js) - [View Kata Details](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/javascript)
