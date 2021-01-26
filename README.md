@@ -66,6 +66,8 @@
 
 ## 3 kyu
 
+- [Alphabetic Anagrams](./AlphabeticAnagrams/index.js) - [View Kata Details](https://www.codewars.com/kata/53e57dada0cb0400ba000688/train/javascript)
+
 - [Make a spiral](./MakeASpiral/index.js) - [View Kata Details](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/javascript)
 
 - [The Millionth Fibonacci Kata](./TheMillionthFibonacciKata/index.js) - [View Kata Details](https://www.codewars.com/kata/53d40c1e2f13e331fc000c26/train/javascript)
