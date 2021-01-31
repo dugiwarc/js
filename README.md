@@ -44,6 +44,8 @@
 
 ## 4 kyu
 
+- [Most frequently used words in a text](./MostFrequentlyUsedWords/index.js) - [View Kata Details](https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/javascript)
+
 - [parseInt\(\) reloaded](./ParseIntReloaded/index.js) - [View Kata Details](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/train/javascript/train/javascript)
 
 - [Snail](./Snail/index.js) - [View Kata Details](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/javascript)
