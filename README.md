@@ -95,3 +95,5 @@
 - [One line task: Circle Intersection](./OneLineTask:CircleIntersection/index.js) - [View Kata Details](https://www.codewars.com/kata/5908242330e4f567e90000a3/train/javascript)
 
 - [The position of a digital string in a infinite digital string](./ThePosition/index.js) - [View Kata Details](https://www.codewars.com/kata/582c1092306063791c000c00/train/javascript)
+
+- [Cut the cake](./CutTheCake/index.js) - [View Kata Details](https://www.codewars.com/kata/586214e1ef065414220000a8/train/javascript)
