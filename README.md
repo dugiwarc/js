@@ -68,6 +68,8 @@
 
 ## 3 kyu
 
+- [Defuse the bombs!](./DefuseTheBombs/index.js) - [View Kata Details](https://www.codewars.com/kata/54d558c72a5e542c0600060f/train/javascript)
+
 - [Alphabetic Anagrams](./AlphabeticAnagrams/index.js) - [View Kata Details](https://www.codewars.com/kata/53e57dada0cb0400ba000688/train/javascript)
 
 - [Make a spiral](./MakeASpiral/index.js) - [View Kata Details](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/javascript)
