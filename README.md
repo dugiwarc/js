@@ -14,6 +14,8 @@
 
 ## 6 kyu
 
+- [Array.diff](./ArrayDiff/index.js) - [View Kata Details](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)
+
 - [Dubstep](./Dubstep/index.js) - [View Kata Details](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/javascript)
 
 - [Does my number look big in this?](./DoesMyNumberLook/index.js) - [View Kata Details](https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript)
