@@ -36,6 +36,8 @@
 
 ## 5 kyu
 
+- [PaginationHelper](./PaginationHelper/index.js) - [View Kata Details](https://www.codewars.com/kata/515bb423de843ea99400000a/train/javascript)
+
 - [RGB To Hex Conversion](./RGBToHexConversion/index.js) - [View Kata Details](https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript)
 
 - [Valid Parantheses](./ValidParantheses/index.js) - [View Kata Details](https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript)
