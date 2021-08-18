@@ -14,6 +14,8 @@
 
 ## 6 kyu
 
+- [Array.diff](./AreTheyTheSame/index.js) - [View Kata Details](https://www.codewars.com/kata/550498447451fbbd7600041c/train/javascript)
+
 - [Array.diff](./ArrayDiff/index.js) - [View Kata Details](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)
 
 - [Dubstep](./Dubstep/index.js) - [View Kata Details](https://www.codewars.com/kata/551dc350bf4e526099000ae5/train/javascript)
