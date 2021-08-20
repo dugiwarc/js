@@ -14,7 +14,9 @@
 
 ## 6 kyu
 
-- [Array.diff](./AreTheyTheSame/index.js) - [View Kata Details](https://www.codewars.com/kata/550498447451fbbd7600041c/train/javascript)
+- [Find the parity outlier](./FindTheParityOutlier/index.js) - [View Kata Details](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/javascript)
+
+- [Are the the same?](./AreTheyTheSame/index.js) - [View Kata Details](https://www.codewars.com/kata/550498447451fbbd7600041c/train/javascript)
 
 - [Array.diff](./ArrayDiff/index.js) - [View Kata Details](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)
 
