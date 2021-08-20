@@ -14,6 +14,8 @@
 
 ## 6 kyu
 
+- [Delete occurrences of an element if it occurs more than n times](./DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes/index.js) - [View Kata Details](https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/javascript)
+
 - [Find the parity outlier](./FindTheParityOutlier/index.js) - [View Kata Details](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/javascript)
 
 - [Are the the same?](./AreTheyTheSame/index.js) - [View Kata Details](https://www.codewars.com/kata/550498447451fbbd7600041c/train/javascript)
